@@ -1,0 +1,2 @@
+# ampsample
+AWS Amplify sample
